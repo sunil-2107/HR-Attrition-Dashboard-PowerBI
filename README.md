@@ -12,9 +12,11 @@ This project delivers an **interactive Power BI dashboard** supported by **docum
 
 ----
 ##  Files in This Repository
-- Open the **HR Attrition Dashboard (.pbix)** file to explore interactive dashboard & insights
-- Review **Page 2** for summarized insights, problems, and actions
-- Open the **Attrition Repprt (.pdf)** for detailed analysis and recommendations
+- open the **'Business Problem.docx'** to get data overview.
+- Open the **'HR_Analytics.pbix'** file to explore interactive dashboard & insights
+- Review **'Page 2'** for summarized insights.
+- Open the **'HR ATTRITION DASHBOARD INSIGHTS.docx'** for detailed analysis and recommendations
+
 
 ----
 
